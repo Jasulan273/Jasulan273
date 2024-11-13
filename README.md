@@ -32,10 +32,8 @@ I'm a front-end developer from Kazakhstan with a solid foundation in crafting re
 ### 📊 GitHub Stats
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasulan273&theme=dark)  
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jasulan273&theme=dark)  
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jasulan273&theme=dark)  
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jasulan273&theme=dark)  
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jasulan273&theme=dark&utcOffset=8)  
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jasulan273&theme=dark)  ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jasulan273&theme=dark)  
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jasulan273&theme=dark)  ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jasulan273&theme=dark&utcOffset=8)  
 
 ---
 
