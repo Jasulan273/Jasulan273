@@ -1,13 +1,13 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Delegatuly Zhasulan!
 
-🌐 **Front-End Developer**  
+🌐 **Front-End Developer & Technology Enthusiast**  
 💻 ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) ![React](https://img.icons8.com/color/20/000000/react-native.png)
 
 ---
 
 ### 🚀 About Me
 
-I'm a front-end developer from Kazakhstan with a strong foundation in crafting responsive, visually appealing web applications. I studied at Astana IT University, where I honed my skills in design and development, focusing on clean, efficient code and user-centered interfaces.
+I'm a front-end developer from Kazakhstan with a solid foundation in crafting responsive, visually appealing web applications. I studied at Astana IT University, focusing on clean, efficient code and user-centered interfaces. My projects showcase a dedication to building engaging digital experiences, blending strong coding skills with a keen eye for design.
 
 ---
 
@@ -26,6 +26,16 @@ I'm a front-end developer from Kazakhstan with a strong foundation in crafting r
 
 - ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) Advanced JavaScript Patterns
 - ![Redux](https://img.icons8.com/color/20/000000/redux.png) State Management (Redux, Context API)
+
+---
+
+### 📊 GitHub Stats
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasulan273&theme=dark)  
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jasulan273&theme=dark)  
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jasulan273&theme=dark)  
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jasulan273&theme=dark)  
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jasulan273&theme=dark&utcOffset=8)  
 
 ---
 
