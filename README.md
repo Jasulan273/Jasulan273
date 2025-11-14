@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Delegatuly Zhasulan!
-
 🌐 **Front-End Developer & Technology Enthusiast**  
 💻 ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) ![React](https://img.icons8.com/color/20/000000/react-native.png)
 
