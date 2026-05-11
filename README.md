@@ -28,7 +28,7 @@
 
 ### 📫 Contact
 
-- [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://linkedin.com/in/yourprofile) **LinkedIn**: [example profile](https://linkedin.com/in/yourprofile)
+- [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://linkedin.com/in/yourprofile) **LinkedIn**:(https://linkedin.com/in/yourprofile)
 - [![Email](https://img.icons8.com/color/24/000000/email.png)](mailto:texnop30618@gmail.com) **Email**: [texnop30618@gmail.com](mailto:texnop30618@gmail.com)
 - **Phone**: +77477356316
 
