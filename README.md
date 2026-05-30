@@ -7,14 +7,7 @@
 | ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) JavaScript | ![Tailwind CSS](https://img.icons8.com/color/24/000000/tailwindcss.png) Tailwind CSS | | ![Webpack](https://img.icons8.com/color/24/000000/webpack.png) Webpack | Figma |
 | | | | ![npm](https://img.icons8.com/color/24/000000/npm.png) npm | |
 
----
 
-### 🌱 Currently Learning
-
-- ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) Advanced JavaScript Patterns
-- ![Redux](https://img.icons8.com/color/20/000000/redux.png) State Management (Redux, Context API)
-
----
 
 ### 📊 GitHub Stats
 
@@ -31,5 +24,3 @@
 - **Phone**: +77477356316
 
 ---
-
-Feel free to connect if you'd like to discuss potential collaborations, projects, or share ideas. Let's build something amazing together! 🚀
