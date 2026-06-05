@@ -1,14 +1,3 @@
-### 🛠️ Skills & Technologies
-
-| Languages     | Frameworks             | Databases                 | Tools                        | Design             |
-|---------------|------------------------|---------------------------|------------------------------|--------------------|
-| ![HTML](https://img.icons8.com/color/24/000000/html-5.png) HTML | ![React](https://img.icons8.com/color/24/000000/react-native.png) React.js | ![MySQL](https://img.icons8.com/color/24/000000/mysql-logo.png) MySQL | ![Git](https://img.icons8.com/color/24/000000/git.png) Git  | UI/UX Principles |
-| ![CSS](https://img.icons8.com/color/24/000000/css3.png) CSS   | ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) Bootstrap | ![PostgreSQL](https://img.icons8.com/color/24/000000/postgreesql.png) PostgreSQL | ![REST APIs](https://img.icons8.com/fluency/24/000000/api-settings.png) REST APIs | Responsive Design |
-| ![JavaScript](https://img.icons8.com/color/24/000000/javascript.png) JavaScript | ![Tailwind CSS](https://img.icons8.com/color/24/000000/tailwindcss.png) Tailwind CSS | | ![Webpack](https://img.icons8.com/color/24/000000/webpack.png) Webpack | Figma |
-| | | | ![npm](https://img.icons8.com/color/24/000000/npm.png) npm | |
-
-
-
 ### 📊 GitHub Stats
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasulan273&theme=dark)  
