@@ -1,5 +1,1 @@
-<img src="./assets/header.svg" width="100%" alt="Jasulan — Full-stack development · Astana, Kazakhstan" />
-
-<img src="./assets/stack.svg" width="100%" alt="Next.js · Node.js · NestJS · Django · React · TypeScript · Python · FastAPI" />
-
-<p align="right"><a href="mailto:texnop30618@gmail.com">texnop30618@gmail.com ↗</a></p>
+<img src="./assets/profile.svg" width="100%" alt="Core stack: Next.js, Node.js, NestJS, Django, React, TypeScript, Python, FastAPI. Web applications, APIs and services, LLM integrations, and animated Pac-Man contribution activity." />
