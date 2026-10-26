@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Jasulan — full-stack development">
+<defs>
+ <linearGradient id="ink"><stop stop-color="#d7f790"/><stop offset=".5" stop-color="#80d7c4"/><stop offset="1" stop-color="#b4a1f8"/></linearGradient>
+ <radialGradient id="haze"><stop stop-color="#32443b" stop-opacity=".5"/><stop offset="1" stop-color="#101514" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#262e2b" stroke-width=".5"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="18" fill="#101514"/>
+<rect x="706" width="494" height="340" rx="18" fill="url(#grid)"/>
+<ellipse cx="971" cy="170" rx="238" ry="170" fill="url(#haze)"/>
+<text x="44" y="49" font-family="monospace" font-size="12" letter-spacing="2" fill="#a8b4ac">JASULAN273</text>
+<path d="M44 77H590" stroke="#2b3530"/>
+<text x="39" y="174" font-family="Arial,Helvetica,sans-serif" font-size="92" font-weight="700" letter-spacing="-5" fill="#f1f3e9">Jasulan<tspan fill="#d7f790">.</tspan></text>
+<text x="44" y="218" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#b7c2b9">Full-stack development</text>
+<text x="44" y="293" font-family="monospace" font-size="12" fill="#8b9b91" letter-spacing="1">WEB APPLICATIONS</text>
+<text x="220" y="293" font-family="monospace" font-size="12" fill="#56645c">/</text>
+<text x="246" y="293" font-family="monospace" font-size="12" fill="#8b9b91" letter-spacing="1">API &amp; INTEGRATIONS</text>
+<text x="440" y="293" font-family="monospace" font-size="12" fill="#56645c">/</text>
+<text x="466" y="293" font-family="monospace" font-size="12" fill="#8b9b91" letter-spacing="1">PYTHON</text>
+<g transform="translate(975 171)" fill="none" stroke="url(#ink)" stroke-width="1.6">
+ <ellipse rx="145" ry="63" transform="rotate(-42)"/>
+ <ellipse rx="145" ry="63" transform="rotate(18)"/>
+ <ellipse rx="145" ry="63" transform="rotate(78)"/>
+ <circle r="84" stroke-opacity=".22"/>
+ <circle r="6" fill="#d7f790" stroke="none"/>
+ <circle cx="112" cy="-86" r="4" fill="#d7f790" stroke="none"><animate attributeName="opacity" values="1;.3;1" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="-118" cy="-65" r="4" fill="#b4a1f8" stroke="none"><animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite"/></circle>
+</g>
+<text x="1084" y="310" font-family="monospace" font-size="10" letter-spacing="2" fill="#64746b">ASTANA / KZ</text>
+</svg>

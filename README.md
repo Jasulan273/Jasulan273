@@ -1,15 +1,7 @@
-### 📊 GitHub Stats
+<img src="./assets/header.svg" width="100%" alt="Jasulan — Full-stack development · Astana, Kazakhstan" />
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jasulan273&theme=dark)  
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jasulan273&theme=dark)  
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jasulan273&theme=dark)  
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jasulan273&theme=dark)  
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jasulan273&theme=dark&utcOffset=8)  
+<img src="./assets/stack.svg" width="100%" alt="Next.js · Node.js · NestJS · Django · React · TypeScript · Python · FastAPI" />
 
----
+<img src="./assets/activity.svg" width="100%" alt="GitHub contribution calendar" />
 
-### 📫 Contact
-- [![Email](https://img.icons8.com/color/24/000000/email.png)](mailto:texnop30618@gmail.com) **Email**: [texnop30618@gmail.com](mailto:texnop30618@gmail.com)
-- **Phone**: +77477356316
-
----
+<p align="right"><a href="mailto:texnop30618@gmail.com">texnop30618@gmail.com ↗</a></p>
